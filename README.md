@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Peter Adebimpe
 - 👀 I’m interested in Software Engineering
-- 🌱 I’m currently learning  C#.Net, Reactjs, Angular, DevOps
+- 🌱 I’m currently learning  C#.Net, Reactjs, DevOps
 - 💞️ I’m looking to collaborate any Software Projects
 - 📫 You can reach me on tosinghdarey@gmail.com
 
